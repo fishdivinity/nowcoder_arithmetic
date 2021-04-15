@@ -1,5 +1,6 @@
 *.c
 !code.c
+*.cpp
 *.md
 !README.md
 !Rule/*.md
