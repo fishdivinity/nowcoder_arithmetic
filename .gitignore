@@ -13,7 +13,19 @@
 
 # Rule
 !Rule/
-!Rule/*.md
+!Rule/Array.md
+!Rule/Divide-and-Conquer.md
+!Rule/Double-pointer.md
+!Rule/Hash.md
+!Rule/Heap.md
+!Rule/Introduction.md
+!Rule/List.md
+!Rule/Math.md
+!Rule/Medium.md
+!Rule/Simpleness.md
+!Rule/Sort.md
+!Rule/Stack.md
+!Rule/String.md
 
 # Root
 !/README.md
